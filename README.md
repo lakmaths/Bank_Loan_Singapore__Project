@@ -44,7 +44,7 @@ There are 2 files
 
 1. BankLoanDefaultPrediction.ipynb
 
-it is the co-lab file, which includes all the python code used for Prediction
-2. Bank_Loan_LakData Science Project SLIDES
+it is the co-lab file, which includes all the python code used for Prediction\\
+2. Bank_Loan_Lak_Project SLIDES
 it contains the presentation of this project
 
