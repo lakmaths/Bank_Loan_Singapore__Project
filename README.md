@@ -36,6 +36,15 @@ Select relevant features that influence loan defaults. Create new features if th
 Model Selection/ Training/Tuning and Evaluation
 Choose appropriate machine learning algorithms. Consider ensemble methods to improve model performance. Ensure model interpretability and explainability.
 
+
 Train machine learning models on the training dataset. Perform hyperparameter tuning to optimize model performance using techniques like grid search or random search.
 
 Evaluate models using appropriate metrics (e.g., accuracy, precision, recall, F1-score, ROC AUC, confusion matrix) but F1-Score is suitable for imbalance classifications.
+There are 2 files
+
+1. BankLoanDefaultPrediction.ipynb
+
+it is the co-lab file, which includes all the python code used for Prediction
+2. Bank_Loan_LakData Science Project SLIDES
+it contains the presentation of this project
+
