@@ -1,4 +1,4 @@
-# Bank_Loan_Singapore__Project
+# Bank_Loan_Singapore__Project_Python
 Loan Default Prediction using Artificial Intelligence & Machine Learning Tools for Application in Financial Industry- Training based on Fictitious Data
 
 Problem:# Predicting Customer Loan Defaults Using AI Algorithms for a Fictitious 'Shantanu Bank of Singapore'
